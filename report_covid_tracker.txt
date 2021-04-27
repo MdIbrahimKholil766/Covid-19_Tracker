@@ -1,0 +1,23 @@
+1.Set color in values -colors
+2.App action bar is color primary which is in color section
+3.set dependency in build .gradle 
+4.set icon in drwable folder
+5.In layout of main i use relative layout
+6.i use corona.imao.ninja api ( in mainactivity.java file) to fetch data
+7.In alert section i use alert message for new updates in realtime.
+8.To fetch the api data i use json object in main activity 63 line.
+9.In object json section i use all api section to fetch cases,death etc 67 line
+10.i set pie data in pie chart.addpieSlice 78 line
+11.home screen loading bar is called arcloader here.100-105 line
+12.create new activity afected country
+38 line -Country model list i fetch data
+13.
+glide lib is use for image 
+for country flag.
+41 line
+
+14.I use google+ sign in method for authentication in firebase console.
+firebase auth is gateway for this authentication.
+15.Use in app message for alert
+16.in future i will implement realtime database for more funcionality.
+
